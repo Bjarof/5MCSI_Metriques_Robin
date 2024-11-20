@@ -25,7 +25,7 @@ def meteo():
   
 @app.route("/histogramme/")
 def monhistogramme():
-    return render_template("data.html")
+    return render_template("dataT.html")
 
 @app.route("/rapport/")
 def mongraphique():
