@@ -24,7 +24,9 @@ def meteo():
 @app.route("/rapport/")
 def mongraphique():
     return render_template("graphique.html")
-                                                                                                                                       
+@app.route("/rapport/")
+def mongraphique():
+    return render_template("graphique.html")                                                                                                                                       
 @app.route('/')
 def hello_world():
     return render_template('hello.html')
