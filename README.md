@@ -57,9 +57,6 @@ Voici une vidéo d'accompagnement pour vous aider dans cette séquence de créat
  . 3.4 - Cliquez sur **Activer la connexion par mot de passe**.  
   
 **Travail demandé :** Mettre en ligne votre application Flask "Hello World !" et **copier l'URL de votre site dans le canal Discord**.  
-
-**Le site ne peut pas fonctionner si l’on n’a pas renseigné dans le repository les « secrets » puisque ce sont ces informations qui permettent des mises à jour de GitHub vers AlwaysData.
-Le Hello Wolrd ne fonctionne donc pas avant la réalisation de l’étape 3** JPP
   
 Notions acquises lors de cette séquence :  
 Vous avez créer un hébergement (gratuit) et découvert également que vous pouvez installer bien d'autres applications (Django, Drupal, Jenkins, Magento, Symphony, etc...). Les perspectives sont nombreuses.
